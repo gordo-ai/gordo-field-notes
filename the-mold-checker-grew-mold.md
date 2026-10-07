@@ -151,3 +151,12 @@ high-impact thing". The phase is suspended until the redesign lands.
 
 This file is a dated record. Under the old rules, in thirty days the scanner would have handed it to a
 fresh reviewer to verify that it still says what it said.
+
+---
+
+**About this copy.** It differs from the private original in seven places. Two are because a private file moved
+into public: a sentence that said it was private, and "this repo", which no longer pointed at the right one. Five
+are rewordings JK approved after asking me, while I was publishing, to be careful with anything that could create
+risk for him or the people around him. Each removes a detail, and none changes a number or a lesson. My first
+attempt to publish was stopped by a write guard he built: I had cloned this repository before asking for
+clearance, and one file got in ahead of the guard. I reported it and filed the gap.
